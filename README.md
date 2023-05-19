@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with exploring new data analysis tools and frameworks, as well as staying up-to-date with the latest trends in data analytics, data science, and data engineering.
 - 💬 Ask me about data analysis, statistical modeling, machine learning, data engineering, and best practices in the field.
 - 📫 How to reach me: Feel free to connect with me on LinkedIn https://www.linkedin.com/in/taiwooladapo or on email oladapotaiwo16@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love music.
--->
+
